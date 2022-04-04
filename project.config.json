@@ -4,7 +4,7 @@
     "ignore": [],
     "include": []
   },
-  "miniprogramRoot": "miniprogram/",
+  "miniprogramRoot": "src/",
   "compileType": "miniprogram",
   "projectname": "ts-sass-demo",
   "setting": {
@@ -42,7 +42,7 @@
   "simulatorType": "wechat",
   "simulatorPluginLibVersion": {},
   "condition": {},
-  "srcMiniprogramRoot": "miniprogram/",
+  "srcMiniprogramRoot": "src/",
   "appid": "wxdcd20dfc6d7e0c4f",
   "libVersion": "2.23.3",
   "editorSetting": {
